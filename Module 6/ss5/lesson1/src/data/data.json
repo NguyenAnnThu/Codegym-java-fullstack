@@ -1,0 +1,82 @@
+{
+  "students": [
+    {
+      "id": 3,
+      "name": "Nguyễn Minh Anh",
+      "gender": true,
+      "class": {
+        "id": 3,
+        "name": "C10"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Nguyễn Thị Bình",
+      "gender": false,
+      "class": {
+        "id": 3,
+        "name": "C10"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Trần Trung Cường",
+      "gender": true,
+      "class": {
+        "id": 2,
+        "name": "C05"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Nguyễn Hạnh Dung",
+      "gender": false,
+      "class": {
+        "id": 3,
+        "name": "C10"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Nguyễn Anh Thư",
+      "gender": false,
+      "class": {
+        "id": "2",
+        "name": "C05"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Nguyễn Anh Thư",
+      "gender": false,
+      "class": {
+        "id": 2,
+        "name": "C05"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Nguyễn Anh Thư",
+      "gender": true,
+      "class": {
+        "id": 3,
+        "name": "C10"
+      }
+    }
+  ],
+  "classes": [
+    {
+      "id": 1,
+      "name": "C03"
+    },
+    {
+      "id": 2,
+      "name": "C05"
+    },
+    {
+      "id": 3,
+      "name": "C10"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
